@@ -12,8 +12,8 @@
 </p>
 
 <p>
-💻 I am a <strong>Full Stack Developer</strong> <br> 
-🧑‍💻 I love writing clean and efficient code <br> 
+💻 I am a <strong>Full Stack Developer</strong> <br /> 
+🧑‍💻 I love writing clean and efficient code <br /> 
 📢 I enjoy sharing my knowledge with others
 </p>
 
