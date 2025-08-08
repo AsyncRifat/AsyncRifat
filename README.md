@@ -63,7 +63,6 @@ I’m a Full Stack Developer passionate about making error-free websites with 10
 ### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -73,25 +72,28 @@ I’m a Full Stack Developer passionate about making error-free websites with 10
   <a href="https://www.linkedin.com/in/ibrahim-rifat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/8801234567890" target="_blank">
+  <a href="https://wa.me/8801737168011" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://twitter.com/shovoalways" target="_blank">
+  <a href="https://twitter.com/ItsIbrahimRifat" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.facebook.com/shovoalways" target="_blank">
+  <a href="https://www.facebook.com/IbrahimRifatOfficial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 
-## 📊 GitHub Stats (Updated)
+## :chart_with_upwards_trend: GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AsyncRifat&show_icons=true&theme=radical" alt="AsyncRifat's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncRifat&layout=compact&theme=radical" alt="AsyncRifat's top languages" /></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AsyncRifat&show_icons=true&theme=radical" alt="AsyncRifat's GitHub stats" />
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncRifat&layout=compact&theme=radical" alt="AsyncRifat's top languages" />
+    </td>
   </tr>
 </table>
-
 
