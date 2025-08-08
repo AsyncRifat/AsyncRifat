@@ -84,3 +84,16 @@ I’m a Full Stack Developer passionate about making error-free websites with 10
   </a>
 </p>
 
+
+## 📊 GitHub Stats (Updated)
+
+![GitHub Contribution Chart](https://ghchart.rshah.org/AsyncRifat)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AsyncRifat&show_icons=true&theme=radical" alt="AsyncRifat's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyncRifat&layout=compact&theme=radical" alt="AsyncRifat's top languages" /></td>
+  </tr>
+</table>
+
+
