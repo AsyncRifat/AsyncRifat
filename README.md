@@ -5,7 +5,7 @@
   <a href="https://github.com/AsyncRifat/AsyncRifat">
     <img src="https://komarev.com/ghpvc/?username=AsyncRifat" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
+  <a href="">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a>
   <a href="https://github.com/AsyncRifat?tab=followers">
