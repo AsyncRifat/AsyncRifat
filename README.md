@@ -12,10 +12,14 @@
 </p>
 
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+- I am Web Developer <br> 
+- Love to write code <br> 
+- Like to share my knowledge </p> 
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ibrahim-rifat" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="@Follow on LinkedIn" />
+  </a>
+</p>
 
 
