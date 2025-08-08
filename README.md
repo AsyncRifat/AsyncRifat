@@ -12,9 +12,10 @@
 </p>
 
 <p>
-- I am Web Developer <br> 
-- Love to write code <br> 
-- Like to share my knowledge </p> 
+💻 I am a <strong>Full Stack Developer</strong> <br> 
+🧑‍💻 I love writing clean and efficient code <br> 
+📢 I enjoy sharing my knowledge with others
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ibrahim-rifat" target="_blank">
@@ -23,6 +24,11 @@
 </p>
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. My favorites include ReactJS, JavaScript, NextJs and TypeScript.
+I’m a Full Stack Developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. My favorites include ReactJS, JavaScript, NextJs and TypeScript.
 
+## 🔭 Current Activities
 
+- 🚀 I am exploring **Next.js**  
+- 🌏 I’m working on a **Tourism Website**  
+- 🛠 Improving my skills in **TypeScript** and **Tailwind CSS**  
+- 📚 Learning **Backend Development** with **Node.js** and **Express.js** 
