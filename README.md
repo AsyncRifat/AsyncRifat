@@ -5,24 +5,17 @@
   <a href="https://github.com/AsyncRifat/AsyncRifat">
     <img src="https://komarev.com/ghpvc/?username=AsyncRifat" alt="page views" />
   </a>
-  <a href="">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
   <a href="https://github.com/AsyncRifat?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AsyncRifat?style=flat&logo=github">
   </a>
+  
 </p>
 
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
